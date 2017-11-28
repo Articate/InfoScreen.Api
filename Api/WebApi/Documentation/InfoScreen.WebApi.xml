@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>InfoScreen.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:InfoScreen.WebApi.Controllers.PingController.Ping">
+            <summary>
+            Ping-tjeneste
+            </summary>
+            <returns>'Pong'</returns>
+            <response code="200">Success</response>
+        </member>
+    </members>
+</doc>

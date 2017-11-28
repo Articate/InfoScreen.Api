@@ -1,0 +1,103 @@
+﻿body {
+    background-color: #F5F5F5;
+}
+
+.swagger-section #header {
+    background-color: rgb(18, 90, 162);
+    padding: 6px;
+    height: 50px;
+}
+
+.swagger-section #header a#logo {
+    background: transparent;
+    padding: 0;
+    position: absolute;
+    top: 19px;
+    margin-left: 10px;
+    font-size: 1.7em;
+}
+
+.swagger-section #header form#api_selector .input input#input_baseUrl {
+    background-color: transparent;
+    border: none;
+    color: white;
+    text-align: right;
+    font-size: 1.1em;
+}
+
+#swagger-ui-container {
+    border: 1px solid #BBBBBB;
+    padding: 20px 10px 20px 10px;
+    border-radius: 3px;
+    background-color: white;
+}
+
+#build {
+    margin-top: 19px;
+    float: right;
+    font-style: italic;
+    font-family: 'Droid Sans', sans-serif;
+    color: #FFFBFB;
+}
+
+img#logo {
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 40px;
+    padding: 5px;
+}
+
+.imageRotateHorizontal{
+    -moz-animation: spinHorizontal 4s infinite linear;
+    -o-animation: spinHorizontal 4s infinite linear;    
+    -webkit-animation: spinHorizontal 4s infinite linear;
+    animation: spinHorizontal 4s infinite linear;
+}
+
+@-moz-keyframes spinHorizontal {
+    0% {
+        -moz-transform: rotateY(0deg);
+    }
+
+    100% {
+        -moz-transform: rotateY(360deg);
+    }
+}
+
+@keyframes spinHorizontal {
+    0% { 
+        transform: rotateY(0deg); 
+    }
+    100% {
+        transform: rotateY(360deg);
+    }
+}
+
+
+@-ms-keyframes spinHorizontal {
+    0% { 
+        -ms-transform: rotateY(0deg); 
+    }
+    100% {
+        -ms-transform: rotateY(360deg);
+    }
+}
+
+@-o-keyframes spinHorizontal {
+    0% { 
+        -o-transform: rotateY(0deg); 
+    }
+    100% { 
+        -o-transform: rotateY(360deg); 
+    }
+}
+
+@-webkit-keyframes spinHorizontal {
+    0% { 
+        -webkit-transform: rotateY(0deg); 
+    }
+    100% { 
+        -webkit-transform: rotateY(360deg); 
+    }
+}

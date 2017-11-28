@@ -1,0 +1,1 @@
+﻿var BuildInfo = { BuildNumber: 'lokalt bygg' }

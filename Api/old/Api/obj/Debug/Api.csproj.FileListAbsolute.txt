@@ -1,0 +1,2 @@
+E:\Programming\home\InfoScreen\Infoscreen.Api\Api\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+E:\Programming\home\InfoScreen\Infoscreen.Api\Api\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache

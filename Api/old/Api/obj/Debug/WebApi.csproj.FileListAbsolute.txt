@@ -1,0 +1,1 @@
+E:\Programming\home\InfoScreen\Infoscreen.Api\Api\Api\obj\Debug\WebApi.csproj.CoreCompileInputs.cache

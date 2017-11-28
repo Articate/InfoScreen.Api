@@ -1,0 +1,10 @@
+E:\Programming\home\InfoScreen\Infoscreen.Api\Api\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\Programming\home\InfoScreen\Infoscreen.Api\Api\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+E:\Programming\home\InfoScreen\Infoscreen.Api\Api\Service\bin\Debug\Castle.Core.dll
+E:\Programming\home\InfoScreen\Infoscreen.Api\Api\Service\bin\Debug\Castle.Windsor.dll
+E:\Programming\home\InfoScreen\Infoscreen.Api\Api\Service\bin\Debug\Castle.Core.xml
+E:\Programming\home\InfoScreen\Infoscreen.Api\Api\Service\bin\Debug\Castle.Windsor.xml
+E:\Programming\home\InfoScreen\Infoscreen.Api\Api\Service\bin\Debug\InfoScreen.Service.dll
+E:\Programming\home\InfoScreen\Infoscreen.Api\Api\Service\bin\Debug\InfoScreen.Service.pdb
+E:\Programming\home\InfoScreen\Infoscreen.Api\Api\Service\obj\Debug\InfoScreen.Service.dll
+E:\Programming\home\InfoScreen\Infoscreen.Api\Api\Service\obj\Debug\InfoScreen.Service.pdb
